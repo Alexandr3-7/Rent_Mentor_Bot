@@ -1,0 +1,7 @@
+aiogram==3.20.0  # Укажите актуальную версию
+openai==1.78.1   # Укажите актуальную версию
+python-dotenv==1.1.0
+faiss-cpu==1.11.0 # или faiss-gpu, если есть GPU
+sentence-transformers==4.1.0
+tiktoken # для подсчета токенов OpenAI
+langchain # для удобных сплиттеров текста (опционально, но полезно)
